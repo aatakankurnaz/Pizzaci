@@ -305,7 +305,7 @@ margin-bottom: 0px;
   display: flex;
   justify-content: center;
   padding-top: 50px;
-  gap: 30px;
+  gap: 50px;
 }
 
 .ortakutu2kapsam div {
@@ -361,7 +361,7 @@ padding-right: 15px;
 }
 
 .resimler {
-  width: 80%; /* Resmi konteynerin genişliğine uyar */
-  height: 80%; /* Orantılı yükseklik */
+  width: 80%;
+  height: 80%;
   object-fit: contain; 
 }
