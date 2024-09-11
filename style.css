@@ -340,6 +340,7 @@ font-weight: 600;
 line-height: 29.44px;
 text-align: left;
 padding-left: 15px;
+margin: 0;
 }
 
 .ortakutu2puan {
@@ -364,4 +365,132 @@ padding-right: 15px;
   width: 80%;
   height: 80%;
   object-fit: contain; 
+}
+
+.footerkapsam {
+  background-color: #1A1A1A;
+  margin-top: 100px;
+ 
+}
+
+.altbilgi {
+  width: 1920px;
+height: 89.8px;
+gap: 0px;
+border-top: 1px solid #FFFFFF26;
+align-self: flex-end;
+}
+.iletisimmetin {
+  font-family: Barlow;
+font-size: 18px;
+font-weight: 400;
+line-height: 32.4px;
+text-align: left;
+color: white;
+}
+.footeriletisimliste {
+  display: flex;
+  gap: 20px;
+}
+.footerbaslik {
+  font-family: Londrina Solid;
+font-size: 50px;
+font-weight: 400;
+line-height: 50px;
+text-align: left;
+color: white;
+margin-bottom:  25px;
+}
+.iconlar {
+  width: 28px;
+  height: 28px;
+  align-self: center;
+}
+.footeriletisimlistekapsam {
+  padding: 0;
+}
+.footermenubilgibaslik {
+  font-family: Barlow;
+font-size: 24px;
+font-weight: 500;
+line-height: 32.11px;
+text-align: left;
+color: white;
+}
+.footermenuurunler {
+  font-family: Barlow;
+font-size: 18px;
+font-weight: 400;
+line-height: 32.4px;
+text-align: left;
+color: white;
+list-style-type: none;
+}
+.footermenulistekapsam {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.footerinstabaslik {
+  font-family: Barlow;
+font-size: 24px;
+font-weight: 500;
+line-height: 32.11px;
+text-align: left;
+color: white;
+}
+.footerkapsam {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.genel {
+  display: flex;
+  
+}
+.footermetinler {
+  display: flex;
+  gap:50px;
+}
+.footerinstaliste {
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+  padding: 0;
+  justify-content: space-between;
+  row-gap: 10px;
+}
+.iletisim {
+padding-bottom: 50px;
+}
+.footermenubilgi{
+  padding-top: 100px;
+}
+.footerinsta {
+  padding-left: 100px;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footerenaltmetin {
+  font-family: Barlow;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: white;
+}
+.altbilgi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.altbilgimetinler {
+  width: 1064.58px;
+height: 27px;
+
 }
